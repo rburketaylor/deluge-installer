@@ -16,7 +16,7 @@ bash <(curl -s https://raw.githubusercontent.com/iamtis/deluge-installer/master/
 #### Step 2
 ###### Wait for it to install then go to server ip with port :8112 added to the end (XXX.XXX.XXX.XX:8112)
 #### Step 3
-###### When aksed use the password deluge and change it to whatever you want to then click change
+###### When aksed, use the password "deluge" and it will ask you to change then when done click apply and ok.
 #### Step 4
 ###### Go to prefrences then in the downloads section and change download location to /var/www/html
 #### Step 5

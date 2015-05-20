@@ -6,4 +6,5 @@ while : ; do
     sleep 1
 done
 rm /var/lib/deluge/config/deluge/core.conf
+wget --output-document="/var/lib/deluge/config/deluge/core.conf" https://raw.githubusercontent.com/iamtis/deluge-installer/master/var/lib/deluge/config/deluge/core.conf
 reboot -h now

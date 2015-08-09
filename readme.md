@@ -25,5 +25,3 @@ bash <(curl -s https://raw.githubusercontent.com/iamtis/deluge-installer/master/
 ###### Then Download to your hearts content!
 
 ## [Tutorial In Video Form](https://www.youtube.com/watch?v=F1ZYuPlm_0s)
-
-[If you want to install it manually for some reason here is the gist for the commands to do so.](https://gist.githubusercontent.com/iamtis/993d0054f27e39fd8c47/raw/5c7358ff8ece246707664a5026ac5a3bd3f458f8/deluge-manual)

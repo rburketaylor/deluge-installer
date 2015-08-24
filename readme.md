@@ -23,5 +23,3 @@ bash <(curl -s https://raw.githubusercontent.com/iamtis/deluge-installer/master/
 ###### To add torrents click the plus in the top corner and paste the magnet link in or upload torrent file to start download
 #### Step 6
 ###### Then Download to your hearts content!
-
-## [Tutorial In Video Form](https://www.youtube.com/watch?v=F1ZYuPlm_0s)

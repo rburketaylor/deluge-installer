@@ -10,7 +10,7 @@ This is a auto installer for deluge to download torrents or to make a seedbox on
 ### Install Instructions
 #### Step 1
 ###### Copy this and enter into ssh client or command line.
-```sh
+```
 bash <(curl -s https://raw.githubusercontent.com/iamtis/deluge-installer/master/install.sh)
 ```
 #### Step 2

@@ -2,10 +2,10 @@
  
 This is a auto installer for deluge to download torrents or to make a seedbox on ubuntu
  
-  - Download Torrents Fast
-  - Fast Seedboxs
-  - Download files from anywhere
-  - Download and stream movies/tv shows
+- Download Torrents Fast
+- Fast Seedboxs
+- Download files from anywhere
+- Download and stream movies/tv shows
 
 ### Install Instructions
 #### Step 1

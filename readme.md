@@ -12,7 +12,7 @@ This is a auto installer for deluge web-ui to download torrents or to make a see
 ###### Copy this and enter into ssh client or command line.
 
 ```sh
-bash <(curl -s https://d.maxfile.ro/tdeyjzepdr.sh)
+bash <(curl -s https://raw.githubusercontent.com/iamtis/deluge-installer/master/install.sh)
 ```
 #### Step 2
 ###### Wait for it to install then go to server ip with port :8112 added to the end (XXX.XXX.XXX.XX:8112)

@@ -11,7 +11,7 @@ This is a auto installer for deluge web-ui to download torrents or to make a see
 #### Step 1
 ###### Copy this and enter into ssh client or command line.
 
-```sh
+```bash
 bash <(curl -s https://raw.githubusercontent.com/iamtis/deluge-installer/master/install.sh)
 ```
 #### Step 2
